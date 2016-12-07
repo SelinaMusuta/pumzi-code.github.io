@@ -4,6 +4,11 @@ body {
    background-color: #a4fff4;
 }
 
+.jumbotron {
+    background-color: red;
+    padding: 0px 0;
+}
+
 #page1 {
     height: 300px;
     background-color: black;
