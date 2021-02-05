@@ -1,8 +1,14 @@
 
 
+background: linear-gradient(white, white) padding-box, url(Black-Logo_Large.png) border-box 0 / cover;
+
 body {
    background-color: #a4fff4;
 }
+
+padding: 1e;
+
+border: 1em solid transparent;
 
 .center {
 width: 300px;
@@ -11,7 +17,7 @@ position: absolute;
 left: 50%;
 top: 50%; 
 margin-left: -150px;
-margin-top: -150px;
+margin-top: -70px;
 }
 
 .jumbotron {
