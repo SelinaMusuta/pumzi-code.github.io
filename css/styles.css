@@ -1,6 +1,6 @@
 
 
-background: linear-gradient(white, white) padding-box, url(img/Black-Logo_Large.png) border-box 0 / cover;
+background { linear-gradient(white, white) padding-box, url(img/Black-Logo_Large.png) border-box 0 / cover; }
 
 body {
    background-color: #a4fff4;
