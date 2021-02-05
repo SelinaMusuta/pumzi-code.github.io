@@ -5,10 +5,10 @@ body {
 }
 
 .shield-border {
-    background { linear-gradient(white, white) padding-box, url(img/Black-Logo_Large.png) border-box 0 / cover; }
-padding: 1em solid transparent;
-
-    border: 1em solid transparent;}
+    background: linear-gradient(white, white) padding-box, url(img/Black-Logo_Large.png) border-box 0 / cover;
+     padding: 1em solid transparent;
+      border: 1em solid transparent;
+}
 
 .center {
 width: 300px;
