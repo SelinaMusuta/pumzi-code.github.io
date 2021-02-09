@@ -1,4 +1,11 @@
-
+@media screen and (min-width: 50rem) {
+  .outer-box-frame {
+        border: 1rem solid #C1A2CC;
+      margin: 5rem auto ; /*the auto for the left/right keeps the page centered*/
+        padding: 5rem;
+    max-width: 80rem; // min-width - 2(padding + border)
+  }
+  
 
 body {
    background-color: #a4fff4;
@@ -47,6 +54,10 @@ margin-top: -70px;
 
 .navbar {
     margin-bottom: 0px;
+}
+
+p { 
+    color: white; 
 }
 
 /* List Items */
